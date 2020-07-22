@@ -1,5 +1,6 @@
 [
  {
+   "City": "Alachua",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 223,
@@ -13,6 +14,7 @@
    "RANK: Education": "31"
  },
  {
+   "City": "Alford",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -26,6 +28,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Altamonte Springs",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 75,
@@ -39,6 +42,7 @@
    "RANK: Education": "44"
  },
  {
+   "City": "Altha",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -52,6 +56,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Anna Maria",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 224,
@@ -65,6 +70,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Apalachicola",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -78,6 +84,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Apopka",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 38,
@@ -91,6 +98,7 @@
    "RANK: Education": "44"
  },
  {
+   "City": "Arcadia",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 189,
@@ -104,6 +112,7 @@
    "RANK: Education": "93"
  },
  {
+   "City": "Archer",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 81,
@@ -117,6 +126,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Astatula",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 56,
@@ -130,6 +140,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Atlantic Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 162,
@@ -143,6 +154,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Atlantis",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 141,
@@ -156,6 +168,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Auburndale",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 166,
@@ -169,6 +182,7 @@
    "RANK: Education": "57"
  },
  {
+   "City": "Aventura",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 28,
@@ -182,6 +196,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Avon Park",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -195,6 +210,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Bal Harbour",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 235,
@@ -208,6 +224,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Baldwin",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 133,
@@ -221,6 +238,7 @@
    "RANK: Education": "51"
  },
  {
+   "City": "Bartow",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 112,
@@ -234,6 +252,7 @@
    "RANK: Education": "61"
  },
  {
+   "City": "Bascom",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -247,6 +266,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Bay Harbor Islands",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -260,6 +280,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Bay Lake",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 242,
@@ -273,6 +294,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Bell",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -286,6 +308,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Belle Glade",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 39,
@@ -299,6 +322,7 @@
    "RANK: Education": "77"
  },
  {
+   "City": "Belle Isle",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 50,
@@ -312,6 +336,7 @@
    "RANK: Education": "4"
  },
  {
+   "City": "Belleair",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -325,6 +350,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Belleair Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 48,
@@ -338,6 +364,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Belleair Bluffs",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 14,
@@ -351,6 +378,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Belleair Shore",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 20,
@@ -364,6 +392,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Belleview",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 56,
@@ -377,6 +406,7 @@
    "RANK: Education": "70"
  },
  {
+   "City": "Beverly Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 4,
@@ -390,6 +420,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Biscayne Park",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 78,
@@ -403,6 +434,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Blountstown",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 108,
@@ -416,6 +448,7 @@
    "RANK: Education": "37"
  },
  {
+   "City": "Boca Raton",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 87,
@@ -429,6 +462,7 @@
    "RANK: Education": "4"
  },
  {
+   "City": "Bonifay",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 61,
@@ -442,6 +476,7 @@
    "RANK: Education": "89"
  },
  {
+   "City": "Bonita Springs",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 21,
@@ -455,6 +490,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Bowling Green",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 28,
@@ -468,6 +504,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Boynton Beach",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 78,
@@ -481,6 +518,7 @@
    "RANK: Education": "31"
  },
  {
+   "City": "Bradenton",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 41,
@@ -494,6 +532,7 @@
    "RANK: Education": "61"
  },
  {
+   "City": "Bradenton Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 136,
@@ -507,6 +546,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Branford",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -520,6 +560,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Briny Breezes",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 72,
@@ -533,6 +574,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Bristol",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 182,
@@ -546,6 +588,7 @@
    "RANK: Education": "34"
  },
  {
+   "City": "Bronson",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 46,
@@ -559,6 +602,7 @@
    "RANK: Education": "67"
  },
  {
+   "City": "Brooker",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 26,
@@ -572,6 +616,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Brooksville",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 178,
@@ -585,6 +630,7 @@
    "RANK: Education": "47"
  },
  {
+   "City": "Bunnell",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 178,
@@ -598,6 +644,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Bushnell",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 210,
@@ -611,6 +658,7 @@
    "RANK: Education": "34"
  },
  {
+   "City": "Callahan",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -624,6 +672,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Callaway",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 139,
@@ -637,6 +686,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Campbellton",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -650,6 +700,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Cape Canaveral",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 34,
@@ -663,6 +714,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Cape Coral",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 68,
@@ -676,6 +728,7 @@
    "RANK: Education": "24"
  },
  {
+   "City": "Carrabelle",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -689,6 +742,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Caryville",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 135,
@@ -702,6 +756,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Casselberry",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 57,
@@ -715,6 +770,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Cedar Key",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -728,6 +784,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Center Hill",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 9,
@@ -741,6 +798,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Century",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -754,6 +812,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Chattahoochee",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 199,
@@ -767,6 +826,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Chiefland",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 148,
@@ -780,6 +840,7 @@
    "RANK: Education": "41"
  },
  {
+   "City": "Chipley",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 150,
@@ -793,6 +854,7 @@
    "RANK: Education": "37"
  },
  {
+   "City": "Cinco Bayou",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 24,
@@ -806,6 +868,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Clearwater",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 74,
@@ -819,6 +882,7 @@
    "RANK: Education": "60"
  },
  {
+   "City": "Clermont",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 66,
@@ -832,6 +896,7 @@
    "RANK: Education": "30"
  },
  {
+   "City": "Clewiston",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 156,
@@ -845,6 +910,7 @@
    "RANK: Education": "91"
  },
  {
+   "City": "Cloud Lake",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 49,
@@ -858,6 +924,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Cocoa",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 218,
@@ -871,6 +938,7 @@
    "RANK: Education": "68"
  },
  {
+   "City": "Cocoa Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 189,
@@ -884,6 +952,7 @@
    "RANK: Education": "9"
  },
  {
+   "City": "Coconut Creek",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 50,
@@ -897,6 +966,7 @@
    "RANK: Education": "40"
  },
  {
+   "City": "Coleman",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -910,6 +980,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Cooper City",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 17,
@@ -923,6 +994,7 @@
    "RANK: Education": "7"
  },
  {
+   "City": "Coral Gables",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 86,
@@ -936,6 +1008,7 @@
    "RANK: Education": "18"
  },
  {
+   "City": "Coral Springs",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 11,
@@ -949,6 +1022,7 @@
    "RANK: Education": "20"
  },
  {
+   "City": "Cottondale",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -962,6 +1036,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Crescent City",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 160,
@@ -975,6 +1050,7 @@
    "RANK: Education": "71"
  },
  {
+   "City": "Crestview",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 22,
@@ -988,6 +1064,7 @@
    "RANK: Education": "5"
  },
  {
+   "City": "Cross City",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -1001,6 +1078,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Crystal River",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -1014,6 +1092,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Cutler Bay",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 1,
@@ -1027,6 +1106,7 @@
    "RANK: Education": "12"
  },
  {
+   "City": "Dade City",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 145,
@@ -1040,6 +1120,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Dania Beach",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 69,
@@ -1053,6 +1134,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Davenport",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 186,
@@ -1066,6 +1148,7 @@
    "RANK: Education": "62"
  },
  {
+   "City": "Davie",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 38,
@@ -1079,6 +1162,7 @@
    "RANK: Education": "8"
  },
  {
+   "City": "Daytona Beach",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 43,
@@ -1092,6 +1176,7 @@
    "RANK: Education": "80"
  },
  {
+   "City": "Daytona Beach Shores",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 208,
@@ -1105,6 +1190,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "DeBary",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 18,
@@ -1118,6 +1204,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Deerfield Beach",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 70,
@@ -1131,6 +1218,7 @@
    "RANK: Education": "73"
  },
  {
+   "City": "DeFuniak Springs",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 220,
@@ -1144,6 +1232,7 @@
    "RANK: Education": "24"
  },
  {
+   "City": "DeLand",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 71,
@@ -1157,6 +1246,7 @@
    "RANK: Education": "81"
  },
  {
+   "City": "Delray Beach",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 84,
@@ -1170,6 +1260,7 @@
    "RANK: Education": "31"
  },
  {
+   "City": "Deltona",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 28,
@@ -1183,6 +1274,7 @@
    "RANK: Education": "78"
  },
  {
+   "City": "Destin",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 54,
@@ -1196,6 +1288,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Doral",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 7,
@@ -1209,6 +1302,7 @@
    "RANK: Education": "3"
  },
  {
+   "City": "Dundee",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 77,
@@ -1222,6 +1316,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Dunedin",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 82,
@@ -1235,6 +1330,7 @@
    "RANK: Education": "25"
  },
  {
+   "City": "Dunnellon",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 170,
@@ -1248,6 +1344,7 @@
    "RANK: Education": "51"
  },
  {
+   "City": "Eagle Lake",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 56,
@@ -1261,6 +1358,7 @@
    "RANK: Education": "85"
  },
  {
+   "City": "Eatonville",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -1274,6 +1372,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Ebro",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 2,
@@ -1287,6 +1386,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Edgewater",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 120,
@@ -1300,6 +1400,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Edgewood",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 56,
@@ -1313,6 +1414,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "El Portal",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 88,
@@ -1326,6 +1428,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Estero",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 31,
@@ -1339,6 +1442,7 @@
    "RANK: Education": "13"
  },
  {
+   "City": "Esto",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -1352,6 +1456,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Eustis",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 66,
@@ -1365,6 +1470,7 @@
    "RANK: Education": "57"
  },
  {
+   "City": "Everglades",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 227,
@@ -1378,6 +1484,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Fanning Springs",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -1391,6 +1498,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Fellsmere",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 127,
@@ -1404,6 +1512,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Fernandina Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 199,
@@ -1417,6 +1526,7 @@
    "RANK: Education": "9"
  },
  {
+   "City": "Flagler Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 206,
@@ -1430,6 +1540,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Florida City",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -1443,6 +1554,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Fort Lauderdale",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 57,
@@ -1456,6 +1568,7 @@
    "RANK: Education": "64"
  },
  {
+   "City": "Fort Meade",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 130,
@@ -1469,6 +1582,7 @@
    "RANK: Education": "43"
  },
  {
+   "City": "Fort Myers",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 85,
@@ -1482,6 +1596,7 @@
    "RANK: Education": "54"
  },
  {
+   "City": "Fort Myers Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 164,
@@ -1495,6 +1610,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Fort Pierce",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 42,
@@ -1508,6 +1624,7 @@
    "RANK: Education": "47"
  },
  {
+   "City": "Fort Walton Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 82,
@@ -1521,6 +1638,7 @@
    "RANK: Education": "22"
  },
  {
+   "City": "Fort White",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 70,
@@ -1534,6 +1652,7 @@
    "RANK: Education": "26"
  },
  {
+   "City": "Freeport",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 79,
@@ -1547,6 +1666,7 @@
    "RANK: Education": "18"
  },
  {
+   "City": "Frostproof",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 120,
@@ -1560,6 +1680,7 @@
    "RANK: Education": "78"
  },
  {
+   "City": "Fruitland Park",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 15,
@@ -1573,6 +1694,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Gainesville",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 30,
@@ -1586,6 +1708,7 @@
    "RANK: Education": "31"
  },
  {
+   "City": "Glen Ridge",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 33,
@@ -1599,6 +1722,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Glen St. Mary",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -1612,6 +1736,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Golden Beach",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -1625,6 +1750,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Golf",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 203,
@@ -1638,6 +1764,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Graceville",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -1651,6 +1778,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Grand Ridge",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 193,
@@ -1664,6 +1792,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Grant-Valkaria",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 35,
@@ -1677,6 +1806,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Green Cove Springs",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 222,
@@ -1690,6 +1820,7 @@
    "RANK: Education": "28"
  },
  {
+   "City": "Greenacres",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 13,
@@ -1703,6 +1834,7 @@
    "RANK: Education": "62"
  },
  {
+   "City": "Greensboro",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 17,
@@ -1716,6 +1848,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Greenville",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -1729,6 +1862,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Greenwood",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -1742,6 +1876,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Gretna",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 35,
@@ -1755,6 +1890,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Groveland",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 166,
@@ -1768,6 +1904,7 @@
    "RANK: Education": "73"
  },
  {
+   "City": "Gulf Breeze",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -1781,6 +1918,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Gulf Stream",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 234,
@@ -1794,6 +1932,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Gulfport",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 157,
@@ -1807,6 +1946,7 @@
    "RANK: Education": "76"
  },
  {
+   "City": "Haines City",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 143,
@@ -1820,6 +1960,7 @@
    "RANK: Education": "94"
  },
  {
+   "City": "Hallandale Beach",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 47,
@@ -1833,6 +1974,7 @@
    "RANK: Education": "55"
  },
  {
+   "City": "Hampton",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -1846,6 +1988,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Havana",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -1859,6 +2002,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Haverhill",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 13,
@@ -1872,6 +2016,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Hawthorne",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 191,
@@ -1885,6 +2030,7 @@
    "RANK: Education": "55"
  },
  {
+   "City": "Hialeah",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 4,
@@ -1898,6 +2044,7 @@
    "RANK: Education": "29"
  },
  {
+   "City": "Hialeah Gardens",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -1911,6 +2058,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "High Springs",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 55,
@@ -1924,6 +2072,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Highland Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 174,
@@ -1937,6 +2086,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Highland Park",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -1950,6 +2100,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Hillcrest Heights",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 7,
@@ -1963,6 +2114,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Hilliard",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 151,
@@ -1976,6 +2128,7 @@
    "RANK: Education": "13"
  },
  {
+   "City": "Hillsboro Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 231,
@@ -1989,6 +2142,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Holly Hill",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 67,
@@ -2002,6 +2156,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Hollywood",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 63,
@@ -2015,6 +2170,7 @@
    "RANK: Education": "70"
  },
  {
+   "City": "Holmes Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 178,
@@ -2028,6 +2184,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Homestead",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 22,
@@ -2041,6 +2198,7 @@
    "RANK: Education": "53"
  },
  {
+   "City": "Horseshoe Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 96,
@@ -2054,6 +2212,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Howey-in-the-Hills",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -2067,6 +2226,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Hypoluxo",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -2080,6 +2240,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Indialantic",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 175,
@@ -2093,6 +2254,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Indian Creek",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 238,
@@ -2106,6 +2268,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Indian Harbour Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 104,
@@ -2119,6 +2282,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Indian River Shores",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 85,
@@ -2132,6 +2296,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Indian Rocks Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 87,
@@ -2145,6 +2310,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Indian Shores",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 92,
@@ -2158,6 +2324,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Indiantown",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 61,
@@ -2171,6 +2338,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Inglis",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 159,
@@ -2184,6 +2352,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Interlachen",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 199,
@@ -2197,6 +2366,7 @@
    "RANK: Education": "71"
  },
  {
+   "City": "Inverness",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -2210,6 +2380,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Islamorada",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 209,
@@ -2223,6 +2394,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Jacksonville",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 73,
@@ -2236,6 +2408,7 @@
    "RANK: Education": "68"
  },
  {
+   "City": "Jacksonville Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 198,
@@ -2249,6 +2422,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Jacob City",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 6,
@@ -2262,6 +2436,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Jasper",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 202,
@@ -2275,6 +2450,7 @@
    "RANK: Education": "92"
  },
  {
+   "City": "Jay",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 211,
@@ -2288,6 +2464,7 @@
    "RANK: Education": "11"
  },
  {
+   "City": "Jennings",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -2301,6 +2478,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Juno Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 99,
@@ -2314,6 +2492,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Jupiter",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 22,
@@ -2327,6 +2506,7 @@
    "RANK: Education": "8"
  },
  {
+   "City": "Jupiter Inlet Colony",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -2340,6 +2520,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Jupiter Island",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 236,
@@ -2353,6 +2534,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Kenneth City",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 21,
@@ -2366,6 +2548,7 @@
    "RANK: Education": "59"
  },
  {
+   "City": "Key Biscayne",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 212,
@@ -2379,6 +2562,7 @@
    "RANK: Education": "2"
  },
  {
+   "City": "Key Colony Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 230,
@@ -2392,6 +2576,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Key West",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 203,
@@ -2405,6 +2590,7 @@
    "RANK: Education": "39"
  },
  {
+   "City": "Keystone Heights",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -2418,6 +2604,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Kissimmee",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 20,
@@ -2431,6 +2618,7 @@
    "RANK: Education": "65"
  },
  {
+   "City": "La Crosse",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 103,
@@ -2444,6 +2632,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "LaBelle",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 35,
@@ -2457,6 +2646,7 @@
    "RANK: Education": "64"
  },
  {
+   "City": "Lady Lake",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 22,
@@ -2470,6 +2660,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Lake Alfred",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 45,
@@ -2483,6 +2674,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Lake Buena Vista",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 241,
@@ -2496,6 +2688,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Lake Butler",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 24,
@@ -2509,6 +2702,7 @@
    "RANK: Education": "81"
  },
  {
+   "City": "Lake City",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -2522,6 +2716,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Lake Clarke Shores",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 134,
@@ -2535,6 +2730,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Lake Hamilton",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 220,
@@ -2548,6 +2744,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Lake Helen",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 90,
@@ -2561,6 +2758,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Lake Mary",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 79,
@@ -2574,6 +2772,7 @@
    "RANK: Education": "16"
  },
  {
+   "City": "Lake Park",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 23,
@@ -2587,6 +2786,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Lake Placid",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 116,
@@ -2600,6 +2800,7 @@
    "RANK: Education": "88"
  },
  {
+   "City": "Lake Wales",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 169,
@@ -2613,6 +2814,7 @@
    "RANK: Education": "51"
  },
  {
+   "City": "Lake Worth",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 53,
@@ -2626,6 +2828,7 @@
    "RANK: Education": "56"
  },
  {
+   "City": "Lakeland",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 47,
@@ -2639,6 +2842,7 @@
    "RANK: Education": "67"
  },
  {
+   "City": "Lantana",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 91,
@@ -2652,6 +2856,7 @@
    "RANK: Education": "82"
  },
  {
+   "City": "Largo",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 59,
@@ -2665,6 +2870,7 @@
    "RANK: Education": "46"
  },
  {
+   "City": "Lauderdale Lakes",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 38,
@@ -2678,6 +2884,7 @@
    "RANK: Education": "72"
  },
  {
+   "City": "Lauderdale-By-The-Sea",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 176,
@@ -2691,6 +2898,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Lauderhill",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 18,
@@ -2704,6 +2912,7 @@
    "RANK: Education": "49"
  },
  {
+   "City": "Laurel Hill",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 16,
@@ -2717,6 +2926,7 @@
    "RANK: Education": "1"
  },
  {
+   "City": "Lawtey",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -2730,6 +2940,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Layton",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 100,
@@ -2743,6 +2954,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Lazy Lake",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -2756,6 +2968,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Lee",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 42,
@@ -2769,6 +2982,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Leesburg",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 196,
@@ -2782,6 +2996,7 @@
    "RANK: Education": "95"
  },
  {
+   "City": "Lighthouse Point",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 76,
@@ -2795,6 +3010,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Live Oak",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 164,
@@ -2808,6 +3024,7 @@
    "RANK: Education": "33"
  },
  {
+   "City": "Longboat Key",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 237,
@@ -2821,6 +3038,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Longwood",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 170,
@@ -2834,6 +3052,7 @@
    "RANK: Education": "20"
  },
  {
+   "City": "Loxahatchee Groves",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -2847,6 +3066,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Lynn Haven",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -2860,6 +3080,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Macclenny",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 94,
@@ -2873,6 +3094,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Madeira Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 217,
@@ -2886,6 +3108,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Madison",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 65,
@@ -2899,6 +3122,7 @@
    "RANK: Education": "51"
  },
  {
+   "City": "Maitland",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 93,
@@ -2912,6 +3136,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Malabar",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 28,
@@ -2925,6 +3150,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Malone",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -2938,6 +3164,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Manalapan",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -2951,6 +3178,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Mangonia Park",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -2964,6 +3192,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Marathon",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 231,
@@ -2977,6 +3206,7 @@
    "RANK: Education": "49"
  },
  {
+   "City": "Marco Island",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 172,
@@ -2990,6 +3220,7 @@
    "RANK: Education": "6"
  },
  {
+   "City": "Margate",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 75,
@@ -3003,6 +3234,7 @@
    "RANK: Education": "17"
  },
  {
+   "City": "Marianna",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 35,
@@ -3016,6 +3248,7 @@
    "RANK: Education": "85"
  },
  {
+   "City": "Marineland",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -3029,6 +3262,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Mary Esther",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 160,
@@ -3042,6 +3276,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Mascotte",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 105,
@@ -3055,6 +3290,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Mayo",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 5,
@@ -3068,6 +3304,7 @@
    "RANK: Education": "4"
  },
  {
+   "City": "McIntosh",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -3081,6 +3318,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Medley",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 239,
@@ -3094,6 +3332,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Melbourne",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 66,
@@ -3107,6 +3346,7 @@
    "RANK: Education": "56"
  },
  {
+   "City": "Melbourne Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 51,
@@ -3120,6 +3360,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Melbourne Village",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 88,
@@ -3133,6 +3374,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Mexico Beach",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -3146,6 +3388,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Miami",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 50,
@@ -3159,6 +3402,7 @@
    "RANK: Education": "41"
  },
  {
+   "City": "Miami Beach",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 89,
@@ -3172,6 +3416,7 @@
    "RANK: Education": "47"
  },
  {
+   "City": "Miami Gardens",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -3185,6 +3430,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Miami Lakes",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 26,
@@ -3198,6 +3444,7 @@
    "RANK: Education": "20"
  },
  {
+   "City": "Miami Shores",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 157,
@@ -3211,6 +3458,7 @@
    "RANK: Education": "15"
  },
  {
+   "City": "Miami Springs",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 47,
@@ -3224,6 +3472,7 @@
    "RANK: Education": "46"
  },
  {
+   "City": "Micanopy",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 155,
@@ -3237,6 +3486,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Midway",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -3250,6 +3500,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Milton",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 86,
@@ -3263,6 +3514,7 @@
    "RANK: Education": "49"
  },
  {
+   "City": "Minneola",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 83,
@@ -3276,6 +3528,7 @@
    "RANK: Education": "12"
  },
  {
+   "City": "Miramar",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 16,
@@ -3289,6 +3542,7 @@
    "RANK: Education": "19"
  },
  {
+   "City": "Monticello",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 182,
@@ -3302,6 +3556,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Montverde",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 43,
@@ -3315,6 +3570,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Moore Haven",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -3328,6 +3584,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Mount Dora",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 226,
@@ -3341,6 +3598,7 @@
    "RANK: Education": "56"
  },
  {
+   "City": "Mulberry",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 153,
@@ -3354,6 +3612,7 @@
    "RANK: Education": "83"
  },
  {
+   "City": "Naples",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 231,
@@ -3367,6 +3626,7 @@
    "RANK: Education": "23"
  },
  {
+   "City": "Neptune Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 127,
@@ -3380,6 +3640,7 @@
    "RANK: Education": "6"
  },
  {
+   "City": "New Port Richey",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 188,
@@ -3393,6 +3654,7 @@
    "RANK: Education": "45"
  },
  {
+   "City": "New Smyrna Beach",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 6,
@@ -3406,6 +3668,7 @@
    "RANK: Education": "74"
  },
  {
+   "City": "Newberry",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 120,
@@ -3419,6 +3682,7 @@
    "RANK: Education": "19"
  },
  {
+   "City": "Niceville",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 168,
@@ -3432,6 +3696,7 @@
    "RANK: Education": "2"
  },
  {
+   "City": "Noma",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 31,
@@ -3445,6 +3710,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "North Bay Village",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -3458,6 +3724,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "North Lauderdale",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 15,
@@ -3471,6 +3738,7 @@
    "RANK: Education": "27"
  },
  {
+   "City": "North Miami",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -3484,6 +3752,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "North Miami Beach",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 82,
@@ -3497,6 +3766,7 @@
    "RANK: Education": "58"
  },
  {
+   "City": "North Palm Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 113,
@@ -3510,6 +3780,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "North Port",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 72,
@@ -3523,6 +3794,7 @@
    "RANK: Education": "35"
  },
  {
+   "City": "North Redington Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 11,
@@ -3536,6 +3808,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Oak Hill",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 19,
@@ -3549,6 +3822,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Oakland",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 194,
@@ -3562,6 +3836,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Oakland Park",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 22,
@@ -3575,6 +3850,7 @@
    "RANK: Education": "79"
  },
  {
+   "City": "Ocala",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 90,
@@ -3588,6 +3864,7 @@
    "RANK: Education": "77"
  },
  {
+   "City": "Ocean Breeze",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 110,
@@ -3601,6 +3878,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Ocean Ridge",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 213,
@@ -3614,6 +3892,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Ocoee",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 33,
@@ -3627,6 +3906,7 @@
    "RANK: Education": "26"
  },
  {
+   "City": "Okeechobee",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 111,
@@ -3640,6 +3920,7 @@
    "RANK: Education": "75"
  },
  {
+   "City": "Oldsmar",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 145,
@@ -3653,6 +3934,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Opa-locka",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -3666,6 +3948,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Orange City",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 115,
@@ -3679,6 +3962,7 @@
    "RANK: Education": "78"
  },
  {
+   "City": "Orange Park",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 136,
@@ -3692,6 +3976,7 @@
    "RANK: Education": "21"
  },
  {
+   "City": "Orchid",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 173,
@@ -3705,6 +3990,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Orlando",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 35,
@@ -3718,6 +4004,7 @@
    "RANK: Education": "42"
  },
  {
+   "City": "Ormond Beach",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 31,
@@ -3731,6 +4018,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Otter Creek",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -3744,6 +4032,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Oviedo",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 19,
@@ -3757,6 +4046,7 @@
    "RANK: Education": "22"
  },
  {
+   "City": "Pahokee",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -3770,6 +4060,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Palatka",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 187,
@@ -3783,6 +4074,7 @@
    "RANK: Education": "96"
  },
  {
+   "City": "Palm Bay",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 3,
@@ -3796,6 +4088,7 @@
    "RANK: Education": "65"
  },
  {
+   "City": "Palm Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 191,
@@ -3809,6 +4102,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Palm Beach Gardens",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 64,
@@ -3822,6 +4116,7 @@
    "RANK: Education": "15"
  },
  {
+   "City": "Palm Beach Shores",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 213,
@@ -3835,6 +4130,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Palm Coast",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 59,
@@ -3848,6 +4144,7 @@
    "RANK: Education": "50"
  },
  {
+   "City": "Palm Shores",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 3,
@@ -3861,6 +4158,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Palm Springs",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 141,
@@ -3874,6 +4172,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Palmetto",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 126,
@@ -3887,6 +4186,7 @@
    "RANK: Education": "42"
  },
  {
+   "City": "Palmetto Bay",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 68,
@@ -3900,6 +4200,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Panama City",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 77,
@@ -3913,6 +4214,7 @@
    "RANK: Education": "63"
  },
  {
+   "City": "Panama City Beach",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -3926,6 +4228,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Parker",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -3939,6 +4242,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Parkland",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 9,
@@ -3952,6 +4256,7 @@
    "RANK: Education": "1"
  },
  {
+   "City": "Paxton",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -3965,6 +4270,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Pembroke Park",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -3978,6 +4284,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Pembroke Pines",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 43,
@@ -3991,6 +4298,7 @@
    "RANK: Education": "6"
  },
  {
+   "City": "Penney Farms",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 97,
@@ -4004,6 +4312,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Pensacola",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 80,
@@ -4017,6 +4326,7 @@
    "RANK: Education": "75"
  },
  {
+   "City": "Perry",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 41,
@@ -4030,6 +4340,7 @@
    "RANK: Education": "36"
  },
  {
+   "City": "Pierson",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 60,
@@ -4043,6 +4354,7 @@
    "RANK: Education": "80"
  },
  {
+   "City": "Pinecrest",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 83,
@@ -4056,6 +4368,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Pinellas Park",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 7,
@@ -4069,6 +4382,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Plant City",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 4,
@@ -4082,6 +4396,7 @@
    "RANK: Education": "59"
  },
  {
+   "City": "Plantation",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -4095,6 +4410,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Polk City",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 147,
@@ -4108,6 +4424,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Pomona Park",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -4121,6 +4438,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Pompano Beach",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 55,
@@ -4134,6 +4452,7 @@
    "RANK: Education": "50"
  },
  {
+   "City": "Ponce de Leon",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -4147,6 +4466,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Ponce Inlet",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 181,
@@ -4160,6 +4480,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Port Orange",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 2,
@@ -4173,6 +4494,7 @@
    "RANK: Education": "43"
  },
  {
+   "City": "Port Richey",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 154,
@@ -4186,6 +4508,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Port St. Joe",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 100,
@@ -4199,6 +4522,7 @@
    "RANK: Education": "90"
  },
  {
+   "City": "Port St. Lucie",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 26,
@@ -4212,6 +4536,7 @@
    "RANK: Education": "15"
  },
  {
+   "City": "Punta Gorda",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 162,
@@ -4225,6 +4550,7 @@
    "RANK: Education": "25"
  },
  {
+   "City": "Quincy",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -4238,6 +4564,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Raiford",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -4251,6 +4578,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Reddick",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 1,
@@ -4264,6 +4592,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Redington Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 10,
@@ -4277,6 +4606,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Redington Shores",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 11,
@@ -4290,6 +4620,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Riviera Beach",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -4303,6 +4634,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Rockledge",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 12,
@@ -4316,6 +4648,7 @@
    "RANK: Education": "71"
  },
  {
+   "City": "Royal Palm Beach",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 9,
@@ -4329,6 +4662,7 @@
    "RANK: Education": "23"
  },
  {
+   "City": "Safety Harbor",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 139,
@@ -4342,6 +4676,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "San Antonio",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -4355,6 +4690,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Sanford",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 35,
@@ -4368,6 +4704,7 @@
    "RANK: Education": "36"
  },
  {
+   "City": "Sanibel",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 228,
@@ -4381,6 +4718,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Sarasota",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 50,
@@ -4394,6 +4732,7 @@
    "RANK: Education": "38"
  },
  {
+   "City": "Satellite Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 124,
@@ -4407,6 +4746,7 @@
    "RANK: Education": "8"
  },
  {
+   "City": "Sea Ranch Lakes",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 148,
@@ -4420,6 +4760,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Sebastian",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 39,
@@ -4433,6 +4774,7 @@
    "RANK: Education": "48"
  },
  {
+   "City": "Sebring",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 143,
@@ -4446,6 +4788,7 @@
    "RANK: Education": "84"
  },
  {
+   "City": "Seminole",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 69,
@@ -4459,6 +4802,7 @@
    "RANK: Education": "27"
  },
  {
+   "City": "Sewall's Point",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 124,
@@ -4472,6 +4816,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Shalimar",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -4485,6 +4830,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Sneads",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -4498,6 +4844,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Sopchoppy",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 219,
@@ -4511,6 +4858,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "South Bay",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 114,
@@ -4524,6 +4872,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "South Daytona",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 61,
@@ -4537,6 +4886,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "South Miami",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 119,
@@ -4550,6 +4900,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "South Palm Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 74,
@@ -4563,6 +4914,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "South Pasadena",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 116,
@@ -4576,6 +4928,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Southwest Ranches",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -4589,6 +4942,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Springfield",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 109,
@@ -4602,6 +4956,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "St. Augustine",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 107,
@@ -4615,6 +4970,7 @@
    "RANK: Education": "32"
  },
  {
+   "City": "St. Augustine Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 95,
@@ -4628,6 +4984,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "St. Cloud",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 62,
@@ -4641,6 +4998,7 @@
    "RANK: Education": "38"
  },
  {
+   "City": "St. Leo",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 26,
@@ -4654,6 +5012,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "St. Lucie Village",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 32,
@@ -4667,6 +5026,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "St. Marks",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 105,
@@ -4680,6 +5040,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "St. Pete Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 229,
@@ -4693,6 +5054,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "St. Petersburg",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 47,
@@ -4706,6 +5068,7 @@
    "RANK: Education": "50"
  },
  {
+   "City": "Starke",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 203,
@@ -4719,6 +5082,7 @@
    "RANK: Education": "60"
  },
  {
+   "City": "Stuart",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 197,
@@ -4732,6 +5096,7 @@
    "RANK: Education": "28"
  },
  {
+   "City": "Sunny Isles Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 132,
@@ -4745,6 +5110,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Sunrise",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 81,
@@ -4758,6 +5124,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Surfside",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 216,
@@ -4771,6 +5138,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Sweetwater",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -4784,6 +5152,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Tallahassee",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 35,
@@ -4797,6 +5166,7 @@
    "RANK: Education": "34"
  },
  {
+   "City": "Tamarac",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 64,
@@ -4810,6 +5180,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Tampa",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 46,
@@ -4823,6 +5194,7 @@
    "RANK: Education": "76"
  },
  {
+   "City": "Tarpon Springs",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 61,
@@ -4836,6 +5208,7 @@
    "RANK: Education": "11"
  },
  {
+   "City": "Tavares",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 207,
@@ -4849,6 +5222,7 @@
    "RANK: Education": "64"
  },
  {
+   "City": "Temple Terrace",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 55,
@@ -4862,6 +5236,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Tequesta",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 182,
@@ -4875,6 +5250,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Titusville",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -4888,6 +5264,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Treasure Island",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 194,
@@ -4901,6 +5278,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Trenton",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 97,
@@ -4914,6 +5292,7 @@
    "RANK: Education": "13"
  },
  {
+   "City": "Umatilla",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 151,
@@ -4927,6 +5306,7 @@
    "RANK: Education": "62"
  },
  {
+   "City": "Valparaiso",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -4940,6 +5320,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Venice",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 225,
@@ -4953,6 +5334,7 @@
    "RANK: Education": "17"
  },
  {
+   "City": "Vernon",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -4966,6 +5348,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Vero Beach",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 116,
@@ -4979,6 +5362,7 @@
    "RANK: Education": "30"
  },
  {
+   "City": "Virginia Gardens",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -4992,6 +5376,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Waldo",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 43,
@@ -5005,6 +5390,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Wauchula",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 102,
@@ -5018,6 +5404,7 @@
    "RANK: Education": "68"
  },
  {
+   "City": "Wausau",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 30,
@@ -5031,6 +5418,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Webster",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -5044,6 +5432,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Weeki Wachee",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 123,
@@ -5057,6 +5446,7 @@
    "RANK: Education": "39"
  },
  {
+   "City": "Welaka",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -5070,6 +5460,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Wellington",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 33,
@@ -5083,6 +5474,7 @@
    "RANK: Education": "10"
  },
  {
+   "City": "West Melbourne",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 64,
@@ -5096,6 +5488,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "West Miami",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 75,
@@ -5109,6 +5502,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "West Palm Beach",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -5122,6 +5516,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "West Park",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 52,
@@ -5135,6 +5530,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Westlake",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 240,
@@ -5148,6 +5544,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Weston",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 43,
@@ -5161,6 +5558,7 @@
    "RANK: Education": "1"
  },
  {
+   "City": "Westville",
    "Size Category": "City, Noncompliant",
    "GRADE: Government Spending": "F",
    "RANK: Government Spending": null,
@@ -5174,6 +5572,7 @@
    "RANK: Education": ""
  },
  {
+   "City": "Wewahitchka",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 70,
@@ -5187,6 +5586,7 @@
    "RANK: Education": "73"
  },
  {
+   "City": "White Springs",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 52,
@@ -5200,6 +5600,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Wildwood",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 136,
@@ -5213,6 +5614,7 @@
    "RANK: Education": "85"
  },
  {
+   "City": "Williston",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 131,
@@ -5226,6 +5628,7 @@
    "RANK: Education": "43"
  },
  {
+   "City": "Wilton Manors",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 177,
@@ -5239,6 +5642,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Windermere",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 127,
@@ -5252,6 +5656,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Winter Garden",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "C",
    "RANK: Government Spending": 54,
@@ -5265,6 +5670,7 @@
    "RANK: Education": "13"
  },
  {
+   "City": "Winter Haven",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 79,
@@ -5278,6 +5684,7 @@
    "RANK: Education": "68"
  },
  {
+   "City": "Winter Park",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 88,
@@ -5291,6 +5698,7 @@
    "RANK: Education": "27"
  },
  {
+   "City": "Winter Springs",
    "Size Category": "City, Large",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 13,
@@ -5304,6 +5712,7 @@
    "RANK: Education": "37"
  },
  {
+   "City": "Worthington Springs",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "A",
    "RANK: Government Spending": 8,
@@ -5317,6 +5726,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Yankeetown",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 182,
@@ -5330,6 +5740,7 @@
    "RANK: Education": "no data"
  },
  {
+   "City": "Zephyrhills",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "D",
    "RANK: Government Spending": 215,
@@ -5343,6 +5754,7 @@
    "RANK: Education": "64"
  },
  {
+   "City": "Zolfo Springs",
    "Size Category": "City, Small",
    "GRADE: Government Spending": "B",
    "RANK: Government Spending": 72,
@@ -5354,18 +5766,5 @@
    "RANK: Crime": "no data",
    "GRADE: Education": "no data",
    "RANK: Education": "no data"
- },
- {
-   "Size Category": "",
-   "GRADE: Government Spending": "",
-   "RANK: Government Spending": null,
-   "GRADE: Government Debt": "",
-   "RANK: Government Debt": null,
-   "GRADE: Size of Government": "",
-   "RANK: Size of Government": "",
-   "GRADE: Crime": "",
-   "RANK: Crime": "",
-   "GRADE: Education": "",
-   "RANK: Education": ""
  }
 ]
